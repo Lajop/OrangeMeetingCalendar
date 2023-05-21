@@ -11,5 +11,3 @@ Kalendarze znajdują się w folderze projektu Calendars
 Kod nieidealny pod względem obsługi błędów ze strony użytkownika jeśli chodzi o podanie niepoprawnych danych. Jest na to delikatny np. meetingDuration.
 
 Dodałem dużą ilość komentarzy, w języku angielskim, samym kodzie wyjaśniające działanie krok po kroku
-
-Możliwe
